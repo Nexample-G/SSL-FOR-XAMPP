@@ -1,0 +1,9 @@
+<VirtualHost *:443>
+    DocumentRoot ""
+    ServerName 
+    ServerAlias *.
+    SSLEngine on
+    SSLCertificateFile ""
+    SSLCertificateKeyFile ""
+</VirtualHost>
+
